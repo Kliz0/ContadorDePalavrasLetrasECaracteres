@@ -1,0 +1,11 @@
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.exe
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.deps.json
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.runtimeconfig.json
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.runtimeconfig.dev.json
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.dll
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\bin\Debug\netcoreapp3.0\desafioDNIT.pdb
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\obj\Debug\netcoreapp3.0\desafioDNIT.csprojAssemblyReference.cache
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\obj\Debug\netcoreapp3.0\desafioDNIT.AssemblyInfoInputs.cache
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\obj\Debug\netcoreapp3.0\desafioDNIT.AssemblyInfo.cs
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\obj\Debug\netcoreapp3.0\desafioDNIT.dll
+C:\Users\55619\Desktop\C#\desafioDNIT\desafioDNIT\obj\Debug\netcoreapp3.0\desafioDNIT.pdb
